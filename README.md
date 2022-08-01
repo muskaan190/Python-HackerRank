@@ -10,7 +10,7 @@
 
 ***How do I start problem solving in HackerRank?***
 - If a problem you are dealing with involves arrays, you should read about arrays and things you could do with them and so on. After this, you are ready to solve the       problem. Start writing the code. Make some progress, fail at a point and rethink the solution.
-- If a problem you are dealing with involves arrays, you should read about arrays and things you could do with them and so on. After this, you are ready to solve the       problem. Start writing the code. Make some progress, fail at a point and rethink the solution.
+- HackerRank is a great resource if you're seeking to polish your coding skills. It has a robust free version, verified solutions you can check at any time (a useful       feature that LeetCode lacks), and a wide array of programming questions for you to solve.
 - To pass the test cases, you must write the output from your code in the exact expected format. Refer to the Failed Test Cases or “Wrong Answer” Status topic for more     information.
 - Test cases fail when the input passed by your code may not be in the exact format as expected by the test case. Also, when the output returned by your code is not the    exact expected output format, you will see a “Wrong answer” status.
 
